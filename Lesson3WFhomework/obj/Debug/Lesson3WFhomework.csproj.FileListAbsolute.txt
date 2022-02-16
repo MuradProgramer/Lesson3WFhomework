@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\bin\Debug\Lesson3WFhomework.exe.config
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\bin\Debug\Lesson3WFhomework.exe
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\bin\Debug\Lesson3WFhomework.pdb
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.Form1.resources
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.Properties.Resources.resources
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.exe
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.pdb
