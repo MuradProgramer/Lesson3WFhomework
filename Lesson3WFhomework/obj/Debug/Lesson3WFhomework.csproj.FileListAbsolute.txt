@@ -9,3 +9,4 @@ C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Les
 C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.exe
 C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.pdb
+C:\Users\User\Desktop\WinForms\Lesson3WFhomework\Lesson3WFhomework\obj\Debug\Lesson3WFhomework.Views.MainView.resources
